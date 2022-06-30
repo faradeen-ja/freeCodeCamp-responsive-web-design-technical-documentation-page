@@ -9,3 +9,11 @@ to complete the freeCodeCamp responsive web design on top of my other several co
 
 
 
+
+
+
+
+
+## Mobile
+
+![Mobile:](https://github.com/faradeen-ja/freeCodeCamp-responsive-web-design-technical-documentation-page/blob/d0fc0a475aa3319c4ab6ff65838463c4b95d35f0/mobile.jpeg)
