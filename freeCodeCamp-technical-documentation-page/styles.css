@@ -1,0 +1,120 @@
+body{
+    margin: 20px;
+    background: beige;
+    font-family: 'roboto', sans-serif;
+  
+  }
+  
+  header{
+       font-size: 16px;
+       font-weight: bold;
+       font-family: 'roboto', sans-serif;
+       
+    
+  }
+  
+  #navbar{
+    padding: 10px;
+    position: absolute;
+    margin-top: 30px;
+    background: rgb(224, 220, 220);
+    top: 0;
+    left: 0;
+    height: 100%;
+    border-right: solid 1px;
+    
+    
+    
+    
+  }
+
+  @media screen and (min-width: 370px) and (max-width: 1024px){
+    #navbar{
+       
+        font-size: 25px;
+        margin-top: 0;
+        margin: 0;
+        top: 0;
+        right: 6px;
+        background: gold;
+        height: fit-content;
+        
+      
+        
+    }
+    
+  }
+  
+
+  .links-li{
+    list-style: none;
+    border: solid 0.5px;
+    padding: 10px;
+    background: white;
+    height: 40px;
+    
+    
+    
+  }
+  .nav-link:hover{
+    color: blue;
+   
+    
+  }
+
+  
+  
+  
+  a{
+    text-decoration: none;
+    color: black;
+    
+    
+  
+  }
+  
+  .anchor-new-tab{
+    color: blue;
+  }
+  
+  .anchor-new-tab:after{
+    content: '+◹';
+    background:gray;
+    border: solid 1px;
+    color: black;
+  
+  }
+  
+  #main-doc{
+    position: fixed;
+    margin: auto;
+    left:355px;
+    top: 55px;
+    line-height: 1.4rem;
+    padding: 20px;
+    overflow: auto;
+    height: 100%;
+
+  
+    
+  }
+  
+  @media screen and (min-width: 370px) and (max-width: 1024px){
+    #main-doc{
+        position: relative;
+        display: block;
+        left: 0;
+        top: 600px;
+    }
+
+    
+  }
+  
+  #Reference{
+    padding: 10px 20px;
+    height: 200px;
+  }
+
+  .main-section{
+    text-align: justify;
+  }
