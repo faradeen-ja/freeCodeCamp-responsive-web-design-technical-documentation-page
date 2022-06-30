@@ -16,4 +16,9 @@ to complete the freeCodeCamp responsive web design on top of my other several co
 
 ## Mobile
 
-![Mobile:](https://github.com/faradeen-ja/freeCodeCamp-responsive-web-design-technical-documentation-page/blob/d0fc0a475aa3319c4ab6ff65838463c4b95d35f0/mobile.jpeg)
+![](https://github.com/faradeen-ja/freeCodeCamp-responsive-web-design-technical-documentation-page/blob/d0fc0a475aa3319c4ab6ff65838463c4b95d35f0/mobile.jpeg)
+
+
+## Desktop
+
+![](https://github.com/faradeen-ja/freeCodeCamp-responsive-web-design-technical-documentation-page/blob/25fdbd9582c184ff387e99eafcb86399e0cd8f09/desktop.jpeg)
